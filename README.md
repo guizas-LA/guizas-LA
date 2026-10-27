@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Guilherme+Silva+%F0%9F%91%8B;Computing+Engineering+student;Studying+at+FEUP+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Guilherme+Silva+%F0%9F%91%8B;Computer+Engineering+student;Studying+at+FEUP+%F0%9F%8E%93" alt="Typing SVG" />
 
 </div>
 
 
 ## 👨‍💻 About me
 
-- 🎓 Final-year student of the **BSc in Informatics and Computing Engineering** at **FEUP** 🇵🇹
+- 🎓 Final-year student of the **Bachelor's Degree in Informatics and Computer Engineering** at **FEUP** 🇵🇹
 - 🔭 Currently working on **web and mobile development** projects
 - 🌱 Deepening my knowledge of **algorithms**, **computer networks** and **web technologies**
 
