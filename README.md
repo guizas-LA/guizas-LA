@@ -18,7 +18,7 @@
 
 **Web**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs&perline=9" alt="Web" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,vite&perline=9" alt="Web" />
 
 **Mobile**
 
